@@ -1,6 +1,6 @@
 # Big Data Project and Analysis
 
-## This repository contains the code and resources for the Big Data Project focused on loan application fraud detection using machine learning techniques.  
+## This repository contains the code and resources for the Big Data Project focused on loan application fraud detection using machine learning techniques.  The original loan_applications and transactions csv documents are provided in repository.
 
 # Models Implemented
 
