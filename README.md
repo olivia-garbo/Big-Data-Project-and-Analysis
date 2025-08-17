@@ -4,18 +4,18 @@
 
 # Models Implemented
 
-##Logistic Regression
-##Random Forest
-##XGBoost
+## Logistic Regression
+## Random Forest
+## XGBoost
 
-#Evaluation Metrics
+# Evaluation Metrics
 
-##The following metrics were used to assess model performance:
+## The following metrics were used to assess model performance:
 
-###Accuracy
+### Accuracy
 
-###Precision & Recall
+### Precision & Recall
 
-###F1-Score
+### F1-Score
 
-###ROC Curve & AUC
+### ROC Curve & AUC
